@@ -1,0 +1,27 @@
+[{
+    "name": "control de gastos",
+    "image": "https://i.ibb.co/DKfj4hD/control-De-Gastos.png",
+    "code": "https://github.com/lmirabelli/controlDeGastos",
+    "web": "https://lmirabelli.github.io/controlDeGastos/",
+    "tecnologies": ["html", "css", "javascript"]
+},{
+    "name": "chango de compras",
+    "image": "https://i.ibb.co/FBfxRZh/chango.png",
+    "code": "https://github.com/lmirabelli/chango",
+    "web": "https://lmirabelli.github.io/chango/",
+    "tecnologies": ["html", "css", "javascript"]
+},{
+    "name": "fixture qatar 2022",
+    "image": "https://i.ibb.co/S3V1j1Q/fixture-Qatar.png",
+    "code": "https://github.com/lmirabelli/simuladorqatar22",
+    "web": "https://lmirabelli.github.io/simuladorqatar22/",
+        "tecnologies": ["html", "css", "javascript"]
+},{
+    "name": "escalada online",
+    "image": "https://i.ibb.co/CVwkKGN/escalada-Online.png",
+    "code": "https://github.com/lmirabelli/escaladaOnlineFront",
+    "api": "https://github.com/lmirabelli/escaladaOnlineAPI",
+    "web": "https://escalada-online-front.vercel.app/",
+        "tecnologies": ["react", "nodejs", "mongodb"]
+}
+]
